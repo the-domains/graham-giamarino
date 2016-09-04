@@ -1,14 +1,26 @@
-layout_spectrum: 0.0734767
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.4462366
-  lightness: 1
   brandStrength: 0.9247312
+  rhythmicContrast: 0.5394265
   brandColors:
     - '#FFFFFF'
     - '#142016'
     - '#7DAA8B'
     - '#C5DACB'
     - '#2F5B4A'
-  rhythmicContrast: 0.5394265
+  lightness: 1
 typography_spectrum: 0.4551971
+layout_spectrum: 1
 name: Graham Giamarino
