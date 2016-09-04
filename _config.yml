@@ -1,0 +1,14 @@
+layout_spectrum: 0.0734767
+typography_spectrum: 0.4551971
+color:
+  saturation: 0.453405
+  lightness: 0.5053763
+  brandStrength: 0.9247312
+  brandColors:
+    - '#FFFFFF'
+    - '#142016'
+    - '#7DAA8B'
+    - '#C5DACB'
+    - '#2F5B4A'
+  rhythmicContrast: 0.5394265
+name: Graham Giamarino
