@@ -11,16 +11,16 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.4462366
+  saturation: 0.3243728
   brandStrength: 0.9247312
-  lightness: 1
+  lightness: 0.01433692
   brandColors:
     - '#FFFFFF'
     - '#142016'
     - '#7DAA8B'
     - '#C5DACB'
     - '#2F5B4A'
-  rhythmicContrast: 0.7060932
+  rhythmicContrast: 0.2616487
 typography_spectrum: 0.4551971
 layout_spectrum: 0
 name: Graham Giamarino
