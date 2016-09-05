@@ -11,8 +11,8 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  saturation: 0.8709677
-  brandStrength: 1
+  saturation: 1
+  brandStrength: 0.7329749
   lightness: 1
   brandColors:
     - '#92C5FA'
@@ -21,6 +21,6 @@ color:
     - '#55342F'
     - '#FB9D6E'
   rhythmicContrast: 0.9731183
-typography_spectrum: 0.3996416
-layout_spectrum: 1
+typography_spectrum: 0.1774193
+layout_spectrum: 0.9426523
 name: Graham Giamarino
